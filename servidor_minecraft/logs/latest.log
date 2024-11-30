@@ -1,0 +1,4 @@
+[00:53:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[00:53:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[00:53:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:53:45] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
