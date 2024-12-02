@@ -94,3 +94,25 @@
 [20:06:14] [Server thread/INFO]: [Luis30_31_3: Successfully filled 36 block(s)]
 [20:06:20] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 121 121 -42 119 121 -7 minecraft:snow_block
 [20:06:20] [Server thread/INFO]: [Luis30_31_3: Successfully filled 58 block(s)]
+[20:08:38] [Server thread/INFO]: Luis30_31_3 issued server command: /weather thunder
+[20:08:38] [Server thread/INFO]: [Luis30_31_3: Set the weather to rain & thunder]
+[20:08:46] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 121 121 -7
+[20:09:36] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 87 163 -44
+[20:10:04] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 87 163 -44 123 120 -5 minecraft:snowy_slopes
+[20:10:12] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 87 163 -44 120 121 -9 minecraft:snowy_slopes
+[20:10:18] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 87 163 -44 113 121 -19 minecraft:snowy_beach
+[20:10:18] [Server thread/INFO]: [Luis30_31_3: 616 biome entry/entries set between 84, 120, -44 and 112, 160, -20]
+[20:10:38] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 84 123 -19
+[20:11:03] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 84 123 -19 124 120 -4 minecraft:snowy_slopes
+[20:11:03] [Server thread/INFO]: [Luis30_31_3: 55 biome entry/entries set between 84, 120, -20 and 124, 120, -4]
+[20:11:15] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 126 121 -16
+[20:11:23] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 126 121 -16 120 118 -49 minecraft:snowy_beach
+[20:11:23] [Server thread/INFO]: [Luis30_31_3: 40 biome entry/entries set between 120, 116, -52 and 124, 120, -16]
+[20:11:32] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 122
+[20:11:48] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 122 118
+[20:11:51] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 122 118 -50
+[20:12:00] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 122 118 -50 84 121 -50 minecraft:snowy_slopes
+[20:12:00] [Server thread/INFO]: [Luis30_31_3: 20 biome entry/entries set between 84, 116, -52 and 120, 120, -52]
+[20:12:12] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 86 121 -41
+[20:12:20] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 86 121 -41 121 118 -51 minecraft:snowy_slopes
+[20:12:20] [Server thread/INFO]: [Luis30_31_3: 60 biome entry/entries set between 84, 116, -52 and 120, 120, -44]
