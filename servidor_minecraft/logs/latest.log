@@ -74,3 +74,13 @@
 [18:16:43] [User Authenticator #0/INFO]: UUID of player Luis30_31_3 is 4d301ca0-3430-30f1-9033-8b1982fb4447
 [18:16:47] [Server thread/INFO]: Luis30_31_3 joined the game
 [18:16:47] [Server thread/INFO]: Luis30_31_3[/127.11.207.12:38167] logged in with entity id 41 at ([world]104.13991011212606, 133.61250026297185, -19.572708393152254)
+[19:16:48] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 88 122 -54
+[19:16:58] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 88 122 -54 118 125 -8 air
+[19:16:58] [Server thread/INFO]: [Luis30_31_3: Successfully filled 2066 block(s)]
+[19:17:36] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 118 121 -8
+[19:17:43] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 118 121 -8 89 121 -44 minecraft:grass_block
+[19:17:43] [Server thread/INFO]: [Luis30_31_3: Successfully filled 931 block(s)]
+[19:19:45] [Server thread/INFO]: Luis30_31_3 issued server command: /weather clear
+[19:19:45] [Server thread/INFO]: [Luis30_31_3: Set the weather to clear]
+[19:30:08] [Server thread/INFO]: Luis30_31_3 issued server command: /time set day
+[19:30:08] [Server thread/INFO]: [Luis30_31_3: Set the time to 1000]
