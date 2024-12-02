@@ -84,3 +84,67 @@
 [22:14:02] [Server thread/INFO]: [Luis30_31_3: The difficulty has been set to Hard]
 [22:14:04] [Server thread/INFO]: Luis30_31_3 issued server command: /gamemode creative
 [22:14:04] [Server thread/INFO]: [Luis30_31_3: Set own game mode to Creative Mode]
+[22:49:25] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:speed infinite 100
+[22:49:25] [Server thread/INFO]: [Luis30_31_3: Applied effect Speed to Luis30_31_3]
+[22:53:32] [Server thread/INFO]: Luis30_31_3 issued server command: /kill
+[22:53:32] [Server thread/INFO]: Luis30_31_3 was killed
+[22:53:32] [Server thread/INFO]: [Luis30_31_3: Killed Luis30_31_3]
+[22:53:45] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:speed infinite 100
+[22:53:45] [Server thread/INFO]: [Luis30_31_3: Applied effect Speed to Luis30_31_3]
+[22:54:44] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:jump_boost infinite 10
+[22:54:44] [Server thread/INFO]: [Luis30_31_3: Applied effect Jump Boost to Luis30_31_3]
+[22:55:19] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:dolphins_grace infinite 100
+[22:55:19] [Server thread/INFO]: [Luis30_31_3: Applied effect Dolphin's Grace to Luis30_31_3]
+[22:55:28] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:dolphins_grace infinite 255
+[22:55:28] [Server thread/INFO]: [Luis30_31_3: Applied effect Dolphin's Grace to Luis30_31_3]
+[22:56:43] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:jump_boost infinite 20
+[22:56:43] [Server thread/INFO]: [Luis30_31_3: Applied effect Jump Boost to Luis30_31_3]
+[23:01:26] [Server thread/INFO]: Luis30_31_3 issued server command: /locate biome minecraft:cherry_grove
+[23:01:27] [Server thread/INFO]: Locating element minecraft:cherry_grove took 974 ms
+[23:01:29] [Server thread/INFO]: Luis30_31_3 issued server command: /tp @s -2789 59 -3081
+[23:01:29] [Server thread/INFO]: [Luis30_31_3: Teleported Luis30_31_3 to -2788.500000, 59.000000, -3080.500000]
+[23:02:17] [Server thread/INFO]: Luis30_31_3 issued server command: /clear l
+[23:02:21] [Server thread/INFO]: Luis30_31_3 issued server command: /clear Luis30_31_3
+[23:02:21] [Server thread/INFO]: [Luis30_31_3: Removed 1 item(s) from player Luis30_31_3]
+[23:02:35] [Server thread/INFO]: Luis30_31_3 issued server command: /effect clear l
+[23:02:39] [Server thread/INFO]: Luis30_31_3 issued server command: /effect clear Luis30_31_3
+[23:02:39] [Server thread/INFO]: [Luis30_31_3: Removed every effect from Luis30_31_3]
+[23:03:07] [Server thread/INFO]: Luis30_31_3 lost connection: Disconnected
+[23:03:07] [Server thread/INFO]: Luis30_31_3 left the game
+[23:03:45] [Server thread/INFO]: Stopping the server
+[23:03:45] [Server thread/INFO]: Stopping server
+[23:03:45] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.12.2
+[23:03:45] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[23:03:45] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[23:03:45] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[23:03:45] [Server thread/INFO]: Saving players
+[23:03:45] [Server thread/INFO]: Saving worlds
+[23:03:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:03:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:03:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:03:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 147 entity chunks, 0 poi chunks in world 'world' in 0.06s
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:03:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:03:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:03:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:03:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:03:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:03:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:03:46] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[23:03:46] [Server thread/INFO]: All I/O tasks to complete
+[23:03:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:03:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
