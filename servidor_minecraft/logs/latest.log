@@ -76,3 +76,11 @@
 [21:49:50] [User Authenticator #0/INFO]: UUID of player Luis30_31_3 is 4d301ca0-3430-30f1-9033-8b1982fb4447
 [21:49:56] [Server thread/INFO]: Luis30_31_3 joined the game
 [21:49:56] [Server thread/INFO]: Luis30_31_3[/127.11.207.12:51049] logged in with entity id 47 at ([world]116.34090611095085, 122.0, -22.79326207861264)
+[22:09:03] [Server thread/INFO]: Luis30_31_3 issued server command: /gamemode survival
+[22:09:03] [Server thread/INFO]: [Luis30_31_3: Set own game mode to Survival Mode]
+[22:09:06] [Server thread/INFO]: Luis30_31_3 issued server command: /time set day
+[22:09:06] [Server thread/INFO]: [Luis30_31_3: Set the time to 1000]
+[22:14:02] [Server thread/INFO]: Luis30_31_3 issued server command: /difficulty hard
+[22:14:02] [Server thread/INFO]: [Luis30_31_3: The difficulty has been set to Hard]
+[22:14:04] [Server thread/INFO]: Luis30_31_3 issued server command: /gamemode creative
+[22:14:04] [Server thread/INFO]: [Luis30_31_3: Set own game mode to Creative Mode]
