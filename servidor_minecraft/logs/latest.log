@@ -84,3 +84,13 @@
 [19:19:45] [Server thread/INFO]: [Luis30_31_3: Set the weather to clear]
 [19:30:08] [Server thread/INFO]: Luis30_31_3 issued server command: /time set day
 [19:30:08] [Server thread/INFO]: [Luis30_31_3: Set the time to 1000]
+[19:58:01] [Server thread/INFO]: Luis30_31_3 issued server command: /time set night
+[19:58:01] [Server thread/INFO]: [Luis30_31_3: Set the time to 13000]
+[19:59:37] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 118 121 -44
+[20:00:19] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 118 121 -44 88 121 -8 minecraft:snow_block
+[20:00:19] [Server thread/INFO]: [Luis30_31_3: Successfully filled 1147 block(s)]
+[20:06:07] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 121 121 -42
+[20:06:14] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 121 121 -42 121 121 -7 minecraft:snow_block
+[20:06:14] [Server thread/INFO]: [Luis30_31_3: Successfully filled 36 block(s)]
+[20:06:20] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 121 121 -42 119 121 -7 minecraft:snow_block
+[20:06:20] [Server thread/INFO]: [Luis30_31_3: Successfully filled 58 block(s)]
