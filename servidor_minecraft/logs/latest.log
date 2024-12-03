@@ -1,150 +1,102 @@
-[21:48:41] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[21:48:41] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[21:48:41] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:48:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[21:48:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[03:03:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[03:03:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[03:03:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:03:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[03:03:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - BlockLocker (1.12.2), SetHome (6.2.3), SkinsRestorer (15.4.4), sleep-most (5.5.1)
-[21:48:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:48:52] [ServerMain/INFO]: Loaded 1337 recipes
-[21:48:52] [ServerMain/INFO]: Loaded 1448 advancements
-[21:48:52] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[21:48:52] [Server thread/INFO]: Loading properties
-[21:48:52] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[21:48:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:48:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:48:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:48:55] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[21:48:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[21:48:55] [Server thread/INFO]: Default game type: SURVIVAL
-[21:48:55] [Server thread/INFO]: Generating keypair
-[21:48:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:48:55] [Server thread/INFO]: Using epoll channel type
-[21:48:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:48:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:48:56] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
-[21:48:56] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[21:48:56] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[21:48:56] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.12.2
-[21:48:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:48:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[21:48:57] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[21:48:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[21:48:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:48:58] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.12.2
-[21:48:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:48:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:48:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:48:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:48:58] [Server thread/INFO]: Preparing level "world"
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:48:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:48:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:48:59] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[21:49:00] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 691.9ms
-[21:49:01] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:01] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:01] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:01] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:02] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:02] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:02] [Server thread/INFO]: Time elapsed: 2911 ms
-[21:49:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:49:02] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:03] [Server thread/INFO]: Time elapsed: 452 ms
-[21:49:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:49:03] [Server thread/INFO]: Preparing spawn area: 0%
-[21:49:03] [Server thread/INFO]: Time elapsed: 300 ms
-[21:49:03] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
-[21:49:03] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[21:49:03] [Server thread/INFO]: [spark] Starting background profiler...
-[21:49:04] [Server thread/INFO]: Done preparing level "world" (5.778s)
-[21:49:04] [Server thread/INFO]: Running delayed init tasks
-[21:49:04] [Server thread/INFO]: Done (25.177s)! For help, type "help"
-[21:49:37] [User Authenticator #0/INFO]: UUID of player Luis30_31_3 is 4d301ca0-3430-30f1-9033-8b1982fb4447
-[21:49:37] [Server thread/INFO]: Luis30_31_3 (/127.11.207.12:56951) lost connection: Disconnected
-[21:49:50] [User Authenticator #0/INFO]: UUID of player Luis30_31_3 is 4d301ca0-3430-30f1-9033-8b1982fb4447
-[21:49:56] [Server thread/INFO]: Luis30_31_3 joined the game
-[21:49:56] [Server thread/INFO]: Luis30_31_3[/127.11.207.12:51049] logged in with entity id 47 at ([world]116.34090611095085, 122.0, -22.79326207861264)
-[22:09:03] [Server thread/INFO]: Luis30_31_3 issued server command: /gamemode survival
-[22:09:03] [Server thread/INFO]: [Luis30_31_3: Set own game mode to Survival Mode]
-[22:09:06] [Server thread/INFO]: Luis30_31_3 issued server command: /time set day
-[22:09:06] [Server thread/INFO]: [Luis30_31_3: Set the time to 1000]
-[22:14:02] [Server thread/INFO]: Luis30_31_3 issued server command: /difficulty hard
-[22:14:02] [Server thread/INFO]: [Luis30_31_3: The difficulty has been set to Hard]
-[22:14:04] [Server thread/INFO]: Luis30_31_3 issued server command: /gamemode creative
-[22:14:04] [Server thread/INFO]: [Luis30_31_3: Set own game mode to Creative Mode]
-[22:49:25] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:speed infinite 100
-[22:49:25] [Server thread/INFO]: [Luis30_31_3: Applied effect Speed to Luis30_31_3]
-[22:53:32] [Server thread/INFO]: Luis30_31_3 issued server command: /kill
-[22:53:32] [Server thread/INFO]: Luis30_31_3 was killed
-[22:53:32] [Server thread/INFO]: [Luis30_31_3: Killed Luis30_31_3]
-[22:53:45] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:speed infinite 100
-[22:53:45] [Server thread/INFO]: [Luis30_31_3: Applied effect Speed to Luis30_31_3]
-[22:54:44] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:jump_boost infinite 10
-[22:54:44] [Server thread/INFO]: [Luis30_31_3: Applied effect Jump Boost to Luis30_31_3]
-[22:55:19] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:dolphins_grace infinite 100
-[22:55:19] [Server thread/INFO]: [Luis30_31_3: Applied effect Dolphin's Grace to Luis30_31_3]
-[22:55:28] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:dolphins_grace infinite 255
-[22:55:28] [Server thread/INFO]: [Luis30_31_3: Applied effect Dolphin's Grace to Luis30_31_3]
-[22:56:43] [Server thread/INFO]: Luis30_31_3 issued server command: /effect give Luis30_31_3 minecraft:jump_boost infinite 20
-[22:56:43] [Server thread/INFO]: [Luis30_31_3: Applied effect Jump Boost to Luis30_31_3]
-[23:01:26] [Server thread/INFO]: Luis30_31_3 issued server command: /locate biome minecraft:cherry_grove
-[23:01:27] [Server thread/INFO]: Locating element minecraft:cherry_grove took 974 ms
-[23:01:29] [Server thread/INFO]: Luis30_31_3 issued server command: /tp @s -2789 59 -3081
-[23:01:29] [Server thread/INFO]: [Luis30_31_3: Teleported Luis30_31_3 to -2788.500000, 59.000000, -3080.500000]
-[23:02:17] [Server thread/INFO]: Luis30_31_3 issued server command: /clear l
-[23:02:21] [Server thread/INFO]: Luis30_31_3 issued server command: /clear Luis30_31_3
-[23:02:21] [Server thread/INFO]: [Luis30_31_3: Removed 1 item(s) from player Luis30_31_3]
-[23:02:35] [Server thread/INFO]: Luis30_31_3 issued server command: /effect clear l
-[23:02:39] [Server thread/INFO]: Luis30_31_3 issued server command: /effect clear Luis30_31_3
-[23:02:39] [Server thread/INFO]: [Luis30_31_3: Removed every effect from Luis30_31_3]
-[23:03:07] [Server thread/INFO]: Luis30_31_3 lost connection: Disconnected
-[23:03:07] [Server thread/INFO]: Luis30_31_3 left the game
-[23:03:45] [Server thread/INFO]: Stopping the server
-[23:03:45] [Server thread/INFO]: Stopping server
-[23:03:45] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.12.2
-[23:03:45] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
-[23:03:45] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
-[23:03:45] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
-[23:03:45] [Server thread/INFO]: Saving players
-[23:03:45] [Server thread/INFO]: Saving worlds
-[23:03:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:03:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:03:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:03:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 147 entity chunks, 0 poi chunks in world 'world' in 0.06s
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[23:03:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[23:03:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[23:03:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[23:03:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:03:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:03:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:03:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:03:46] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[23:03:46] [Server thread/INFO]: All I/O tasks to complete
-[23:03:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[23:03:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[03:03:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:03:18] [ServerMain/INFO]: Loaded 1337 recipes
+[03:03:18] [ServerMain/INFO]: Loaded 1448 advancements
+[03:03:18] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:03:18] [Server thread/INFO]: Loading properties
+[03:03:18] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[03:03:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:03:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:03:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:03:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:03:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:03:21] [Server thread/INFO]: Default game type: SURVIVAL
+[03:03:21] [Server thread/INFO]: Generating keypair
+[03:03:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:03:21] [Server thread/INFO]: Using epoll channel type
+[03:03:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:03:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:03:22] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
+[03:03:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[03:03:22] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[03:03:22] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.12.2
+[03:03:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:03:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[03:03:23] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:03:23] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[03:03:24] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:03:24] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.12.2
+[03:03:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:03:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:03:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:03:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:03:24] [Server thread/INFO]: Preparing level "world"
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:03:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:03:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:03:25] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[03:03:26] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 832.6ms
+[03:03:27] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:27] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:27] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:27] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:28] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:28] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:28] [Server thread/INFO]: Time elapsed: 2811 ms
+[03:03:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:03:28] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:28] [Server thread/INFO]: Time elapsed: 477 ms
+[03:03:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:03:28] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:29] [Server thread/INFO]: Time elapsed: 476 ms
+[03:03:29] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
+[03:03:29] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[03:03:29] [Server thread/INFO]: [spark] Starting background profiler...
+[03:03:30] [Server thread/INFO]: Done preparing level "world" (5.546s)
+[03:03:30] [Server thread/INFO]: Running delayed init tasks
+[03:03:30] [Server thread/INFO]: Done (24.709s)! For help, type "help"
+[03:03:34] [User Authenticator #0/INFO]: UUID of player Luis30_31_3 is 4d301ca0-3430-30f1-9033-8b1982fb4447
+[03:03:39] [Server thread/INFO]: Luis30_31_3 joined the game
+[03:03:39] [Server thread/INFO]: Luis30_31_3[/127.11.207.12:57957] logged in with entity id 32 at ([world]-2931.6290979919318, 125.0, -2980.4976787978185)
+[03:04:11] [User Authenticator #0/INFO]: UUID of player huzmen28 is 4f0fd9ca-406f-35b5-a07e-bb02c0ae19c7
+[03:04:12] [Server thread/INFO]: huzmen28 joined the game
+[03:04:12] [Server thread/INFO]: huzmen28[/127.6.84.158:41969] logged in with entity id 286 at ([world]2.5, 121.0, -0.5)
+[03:04:22] [Server thread/INFO]: Luis30_31_3 issued server command: /kill
+[03:04:22] [Server thread/INFO]: Luis30_31_3 was killed
+[03:04:22] [Server thread/INFO]: [Luis30_31_3: Killed Luis30_31_3]
+[03:04:34] [Server thread/INFO]: Luis30_31_3 issued server command: /spawnpoint @a
+[03:04:34] [Server thread/INFO]: [Luis30_31_3: Set spawn point to 111, 122, -18 [0.0] in minecraft:overworld for 2 players]
+[03:04:37] [Server thread/INFO]: Luis30_31_3 issued server command: /kill @a
+[03:04:37] [Server thread/INFO]: huzmen28 was killed
+[03:04:37] [Server thread/INFO]: Luis30_31_3 was killed
+[03:04:37] [Server thread/INFO]: [Luis30_31_3: Killed 2 entities]
+[03:04:44] [Server thread/INFO]: Luis30_31_3 issued server command: /time set day
+[03:04:44] [Server thread/INFO]: [Luis30_31_3: Set the time to 1000]
+[03:04:48] [Server thread/INFO]: Luis30_31_3 issued server command: /weather clear
+[03:04:48] [Server thread/INFO]: [Luis30_31_3: Set the weather to clear]
+[03:04:49] [Server thread/INFO]: huzmen28 was slain by Zombie
+[03:05:01] [Server thread/INFO]: huzmen28 was slain by Zombie
+[03:05:31] [Server thread/INFO]: huzmen28 issued server command: /skin thedarick28
+[03:05:43] [Server thread/INFO]: huzmen28 lost connection: Disconnected
+[03:05:44] [Server thread/INFO]: huzmen28 left the game
+[03:07:55] [Server thread/INFO]: Luis30_31_3 lost connection: Timed out
+[03:07:55] [Server thread/INFO]: Luis30_31_3 left the game
+[03:11:16] [User Authenticator #1/INFO]: UUID of player Luis30_31_3 is 4d301ca0-3430-30f1-9033-8b1982fb4447
+[03:11:21] [Server thread/INFO]: Luis30_31_3 joined the game
+[03:11:21] [Server thread/INFO]: Luis30_31_3[/127.11.207.12:50211] logged in with entity id 1319 at ([world]81.68785020663971, 113.0, -90.04642067422736)
