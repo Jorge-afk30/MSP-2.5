@@ -396,3 +396,61 @@
 [21:51:26] [Server thread/INFO]: /whitelist: A Mojang provided command.
 [21:51:26] [Server thread/INFO]: /worldborder: A Mojang provided command.
 [21:51:26] [Server thread/INFO]: /xp: A Mojang provided command.
+[21:52:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawpoint /spawnpoin: 17.400 64 -55.100<--[HERE]
+[21:52:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawpoint 17.400 64 -55.100<--[HERE]
+[21:53:29] [Server thread/INFO]: Luis30_31_3 issued server command: /setworldspawn 22 63 -58
+[21:53:29] [Server thread/INFO]: [Luis30_31_3: Set the world spawn point to 22, 63, -58 [0.0]]
+[21:53:35] [Server thread/INFO]: Luis30_31_3 issued server command: /kill
+[21:53:35] [Server thread/INFO]: Luis30_31_3 was killed
+[21:53:35] [Server thread/INFO]: [Luis30_31_3: Killed Luis30_31_3]
+[21:53:59] [Server thread/INFO]: Luis30_31_3 issued server command: /gamerule spawnChunkRadius 0
+[21:53:59] [Server thread/INFO]: [Luis30_31_3: Gamerule spawnChunkRadius is now set to: 0]
+[21:54:02] [Server thread/INFO]: Luis30_31_3 issued server command: /kill
+[21:54:02] [Server thread/INFO]: Luis30_31_3 was killed
+[21:54:02] [Server thread/INFO]: [Luis30_31_3: Killed Luis30_31_3]
+[21:54:12] [Server thread/INFO]: Luis30_31_3 issued server command: /back
+[21:54:19] [Server thread/INFO]: Luis30_31_3 issued server command: /back
+[21:54:29] [Server thread/INFO]: Luis30_31_3 lost connection: Disconnected
+[21:54:29] [Server thread/INFO]: Luis30_31_3 left the game
+[21:54:35] [Server thread/INFO]: Stopping the server
+[21:54:35] [Server thread/INFO]: Stopping server
+[21:54:35] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.12.2
+[21:54:35] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[21:54:35] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[21:54:35] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[21:54:35] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[21:54:35] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[21:54:35] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[21:54:35] [Server thread/INFO]: Saving players
+[21:54:35] [Server thread/INFO]: Saving worlds
+[21:54:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:54:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:54:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:54:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Saved 142 block chunks, 178 entity chunks, 0 poi chunks in world 'world' in 0.61s
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:54:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:54:36] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[21:54:36] [Server thread/INFO]: All I/O tasks to complete
+[21:54:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:54:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
