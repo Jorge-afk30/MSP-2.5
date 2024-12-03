@@ -111,3 +111,6 @@
 [20:55:08] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 10 90 -69
 [20:55:14] [Server thread/INFO]: Luis30_31_3 issued server command: /fill 10 90 -69 -1 64 -80 air
 [20:55:14] [Server thread/INFO]: [Luis30_31_3: Successfully filled 135 block(s)]
+[21:04:04] [Server thread/INFO]: Luis30_31_3 issued server command: /tpa Luis30_31_3
+[21:04:08] [Server thread/INFO]: Luis30_31_3 issued server command: /time set day
+[21:04:08] [Server thread/INFO]: [Luis30_31_3: Set the time to 1000]
