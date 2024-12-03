@@ -115,3 +115,19 @@
 [21:04:08] [Server thread/INFO]: Luis30_31_3 issued server command: /time set day
 [21:04:08] [Server thread/INFO]: [Luis30_31_3: Set the time to 1000]
 [21:20:27] [Server thread/INFO]: Luis30_31_3 has completed the challenge [With Our Powers Combined!]
+[21:24:39] [Server thread/INFO]: Luis30_31_3 issued server command: /difficulty peaceful
+[21:24:39] [Server thread/INFO]: [Luis30_31_3: The difficulty has been set to Peaceful]
+[21:24:47] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome
+[21:25:04] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 12 106 -69
+[21:25:16] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 12 106 -69 33 63 -35 minecraft:snowy_slopes
+[21:25:24] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 12 106 -69 30 63 -46 minecraft:snowy_beach
+[21:25:24] [Server thread/INFO]: [Luis30_31_3: 420 biome entry/entries set between 12, 60, -72 and 28, 104, -48]
+[21:25:42] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 12 106 -69 -8 63 -87 minecraft:snowy_plains
+[21:25:42] [Server thread/INFO]: [Luis30_31_3: 360 biome entry/entries set between -8, 60, -88 and 12, 104, -72]
+[21:25:56] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 12 106 -69 -7 61 -47 minecraft:snowy_slopes
+[21:25:56] [Server thread/INFO]: [Luis30_31_3: 504 biome entry/entries set between -8, 60, -72 and 12, 104, -48]
+[21:26:08] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 12 106 -69 31 63 -88 minecraft:snowy_plains
+[21:26:08] [Server thread/INFO]: [Luis30_31_3: 300 biome entry/entries set between 12, 60, -88 and 28, 104, -72]
+[21:31:10] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 40 63 -97
+[21:31:21] [Server thread/INFO]: Luis30_31_3 issued server command: /fillbiome 40 63 -97 20 106 -78 minecraft:snowy_slopes
+[21:31:21] [Server thread/INFO]: [Luis30_31_3: 432 biome entry/entries set between 20, 60, -100 and 40, 104, -80]
