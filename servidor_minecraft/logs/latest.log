@@ -74,3 +74,7 @@
 [01:34:14] [Server thread/INFO]: Done preparing level "world" (4.277s)
 [01:34:14] [Server thread/INFO]: Running delayed init tasks
 [01:34:14] [Server thread/INFO]: Done (22.434s)! For help, type "help"
+[01:51:59] [User Authenticator #0/INFO]: UUID of player Luis30_31_3 is 4d301ca0-3430-30f1-9033-8b1982fb4447
+[01:52:05] [Server thread/INFO]: Luis30_31_3 joined the game
+[01:52:05] [Server thread/INFO]: Luis30_31_3[/127.11.207.12:48719] logged in with entity id 11 at ([world]22.364677884262594, 64.0, -57.41417812573111)
+[01:53:36] [Server thread/INFO]: Luis30_31_3 issued server command: /command block
