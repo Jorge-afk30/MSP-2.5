@@ -95,3 +95,24 @@
 [02:06:16] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
 [02:11:55] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a subtitle {"text":"Adrian cabro","color":"black"}
 [02:11:55] [Server thread/INFO]: [Luis30_31_3: Showing new subtitle for Luis30_31_3]
+[02:12:07] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a title {"text":"Adrian cabro","color":"black"}
+[02:12:07] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
+[02:12:22] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a title ["",{"text":"¡BIENVENIDO A MI CERRU","bold":true,"color":"red"},{"text":"\ud83c\uddf5\ud83c\uddea!","color":"red"}]
+[02:12:22] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
+[02:12:27] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a title ["",{"text":"¡BIENVENIDO A MI CERRU","bold":true,"color":"red"},{"text":"\ud83c\uddf5\ud83c\uddea!","color":"red"}]
+[02:12:27] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
+[02:12:30] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a title ["",{"text":"¡BIENVENIDO A MI CERRU","bold":true,"color":"red"},{"text":"\ud83c\uddf5\ud83c\uddea!","color":"red"}]
+[02:12:30] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
+[02:12:43] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a title ["",{"text":"¡BIENVENIDO A MI CERRU","bold":true,"color":"red"},{"text":"\ud83c\uddf5\ud83c\uddea!","color":"red"}]
+[02:12:43] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
+[02:13:05] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a title ["",{"text":"¡BIENVENIDO","bold":true,"color":"red"},{"text":" A MI","bold":true,"color":"white"},{"text":" CERRU","bold":true,"color":"red"},{"text":"\ud83c\uddf5\ud83c\uddea!","color":"red"}]
+[02:13:05] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
+[02:13:18] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a times 40 60 40
+[02:13:18] [Server thread/INFO]: [Luis30_31_3: Changed title display times for Luis30_31_3]
+[02:13:21] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a title ["",{"text":"¡BIENVENIDO","bold":true,"color":"red"},{"text":" A MI","bold":true,"color":"white"},{"text":" CERRU","bold":true,"color":"red"},{"text":"\ud83c\uddf5\ud83c\uddea!","color":"red"}]
+[02:13:21] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
+[02:14:25] [Server thread/INFO]: Luis30_31_3 issued server command: /give @p minecraft:oak_sign{BlockEntityTag:{Text1:'{"text":"ADRIAN CABRO","bold":true,"color":"light_purple"}',Text2:'{"text":"SE LA COME COMPLETA","bold":true,"color":"light_purple"}'},display:{Name:'{"text":"Cartel personalizado"}'}}
+[02:14:59] [Server thread/INFO]: Luis30_31_3 issued server command: /give @a minecraft:oak_sign{BlockEntityTag:{Text1:'{"text":"ADRIAN CABRO","bold":true,"color":"light_purple"}',Text2:'{"text":"SE LA COME COMPLETA","bold":true,"color":"light_purple"}'},display:{Name:'{"text":"Cartel personalizado"}'}}
+[02:16:38] [Server thread/INFO]: Luis30_31_3 issued server command: /give @s minecraft:leather_helmet{display:{color:4211360}}
+[02:19:59] [Server thread/INFO]: Luis30_31_3 issued server command: /title @a title ["",{"text":"¡BIENVENIDO","bold":true,"color":"red"},{"text":" A MI","bold":true,"color":"white"},{"text":" CERRU","bold":true,"color":"red"},{"text":"\ud83c\uddf5\ud83c\uddea!","color":"red"}]
+[02:19:59] [Server thread/INFO]: [Luis30_31_3: Showing new title for Luis30_31_3]
